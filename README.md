@@ -1,10 +1,10 @@
 # bootstrap4-tutorial
 
 
-1) Start with base HTML page.
+1) Start with <a href= "base.html">base bootstrap HTML page</a>.
 
 
-2) Add 
+2) Add a jumbotron. 
 
 ```html
 <div class="jumbotron text-center">
@@ -60,7 +60,7 @@
 </div>
 ```
 
-6) Experiment with tables
+6) Experiment with tables.
 
 ```html
 
